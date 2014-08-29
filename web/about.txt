@@ -1,0 +1,5 @@
+#This is a sample about text file.
+
+About us.
+
+#End
